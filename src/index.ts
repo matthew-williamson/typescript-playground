@@ -1,7 +1,6 @@
 // src/index.ts
 
-const greet = (name: string): string => {
-  return `Hello, ${name}!`;
-};
-
-console.log(greet("World"));
+// TODO:
+// Implement 3 books
+// Implement 3 members
+// Implement a library using those members and books
