@@ -1,5 +1,3 @@
-// src/index.ts
-
 // TODO:
 // Implement 3 books
 // Implement 3 members
